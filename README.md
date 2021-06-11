@@ -4,6 +4,11 @@
 
 <hr />
 
+### Supported OS:
+- Windows - [download](https://github.com/sell/youtube-downloader/releases)
+
+<hr />
+
 ### Questions:
 
 #### Why not open source ?
